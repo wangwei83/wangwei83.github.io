@@ -1,0 +1,16 @@
+body {
+  width: 500px;
+  margin: 0 auto;
+}
+
+p {
+  background: rgba(255, 84, 104, 0.3);
+  border: 2px solid rgb(255, 84, 104);
+  padding: 5px;
+  margin: 5px;
+}
+
+span {
+  background: white;
+  border: 1px solid black;
+}
