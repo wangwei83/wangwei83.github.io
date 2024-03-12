@@ -12,6 +12,11 @@ header {
     text-align: center;
 }
 
+header h1 {
+    font-size: 24px;
+}
+
+
 nav ul {
     list-style: none;
     padding: 0;
